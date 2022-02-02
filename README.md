@@ -1,5 +1,6 @@
 # ProShop - A full-fledged eCommerce Website built with the MERN stack & Redux.
-# Please click 
+# Please click https://proshop-wyx.herokuapp.com/ to see the details
+
 ## features
 1. integrated PayPal API to facilitate and secure the checkout process
 2. A product review and rating system
