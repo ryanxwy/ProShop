@@ -8,7 +8,7 @@
 4. Product pagination & search feature
 
 
-##layout
+## layout
 ### register/Profile page
 1. show all the details of users and their orders
 
